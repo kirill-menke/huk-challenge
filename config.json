@@ -1,0 +1,17 @@
+{
+    "enable_log": true,
+    "checkpoint": true,
+    "cuda": true,
+    
+    "epochs": 20,
+
+    "batch_size": 16,
+    "lr": 0.0005565403581907802,
+    "momentum": 0.9861517385340137,
+    "weight_decay": 0.0,
+
+    "hpo_samples": 30,
+    "time_budget": 7200,
+    "max_epochs": 5,
+    "reduction_factor": 2
+}
